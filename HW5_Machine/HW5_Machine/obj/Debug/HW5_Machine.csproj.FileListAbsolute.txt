@@ -1,0 +1,10 @@
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\bin\Debug\HW5_Machine.exe.config
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\bin\Debug\HW5_Machine.exe
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\bin\Debug\HW5_Machine.pdb
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\obj\Debug\HW5_Machine.csprojAssemblyReference.cache
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\obj\Debug\HW5_Machine.Form1.resources
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\obj\Debug\HW5_Machine.Properties.Resources.resources
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\obj\Debug\HW5_Machine.csproj.GenerateResource.cache
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\obj\Debug\HW5_Machine.csproj.CoreCompileInputs.cache
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\obj\Debug\HW5_Machine.exe
+D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Machine\HW5_Machine\obj\Debug\HW5_Machine.pdb
