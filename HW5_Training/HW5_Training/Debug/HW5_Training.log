@@ -1,0 +1,5 @@
+﻿  main.c
+d:\heavyshigure\my documents\school\cs 783\homework\hw5_parts\hw5_training\hw5_training\main.c(36): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\heavyshigure\my documents\school\cs 783\homework\hw5_parts\hw5_training\hw5_training\main.c(38): warning C4101: 'select': unreferenced local variable
+  LINK : D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Training\Debug\HW5_Training.exe not found or not built by the last incremental link; performing full link
+  HW5_Training.vcxproj -> D:\HeavyShigure\My Documents\School\CS 783\Homework\HW5_Parts\HW5_Training\Debug\HW5_Training.exe
